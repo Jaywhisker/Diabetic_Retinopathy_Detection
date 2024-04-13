@@ -3,3 +3,5 @@ models/
 __pycache__
 NN-MOBILENET/
 .gitconfig
+training_notebooks/*ipynb
+others/
