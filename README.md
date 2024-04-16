@@ -8,6 +8,7 @@ The report can be found here: https://drive.google.com/file/d/1c9fDaT3SttWfrUAfw
 Run the following code to download all required libraries for the first setup
 ```
 git clone https://github.com/Jaywhisker/Diabetic_Retinopathy_Detection.git
+cd Diabetic_Retinopathy_Detection
 pip install -r requirements.txt
 ```
 ___
