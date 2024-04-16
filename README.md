@@ -1,7 +1,7 @@
 # Diabetic_Retinopathy_Detection
 This is the repository for 60.001 Applied Deep Learning Diabetic Retinopathy Severity Detection CNN Project. 
 <br/>
-The report can be found here: (TBD)
+The report can be found here: https://drive.google.com/file/d/1c9fDaT3SttWfrUAfwUnbV0ts4Tupdc_h/view?usp=sharing
 
 ## Setup
 ### Library Dependcies
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 ___
 ### Dataset
-Please download the dataset here: (TBD). 
+Please download the dataset here: https://drive.google.com/file/d/1c9fDaT3SttWfrUAfwUnbV0ts4Tupdc_h/view?usp=drive_link 
 
 Export the dataset and move the `Classification` and `Segmentation` folder into the input folder.
 ___
