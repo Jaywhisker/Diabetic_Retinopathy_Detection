@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 ___
 ### Dataset
-Please download the dataset here: https://drive.google.com/file/d/1c9fDaT3SttWfrUAfwUnbV0ts4Tupdc_h/view?usp=drive_link 
+Please download the dataset here: https://drive.google.com/drive/folders/1A4Fo2uBpeNlDQ6iH1IEG8QUbIZBTPPBP?usp=sharing
 
 Export the dataset and move the `Classification` and `Segmentation` folder into the input folder.
 ___
